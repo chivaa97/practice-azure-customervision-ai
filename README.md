@@ -2,7 +2,7 @@
 ![AI](img/title.png)
 
 ----------------------------------------------------------------
-##### -Go to this [URL](C:\xampp\htdocs\InnovaccionVirtual\practice-azure-customvision-AI\img\1-cv.png) and click on SING IN.
+##### -Go to this [URL]([C:\xampp\htdocs\InnovaccionVirtual\practice-azure-customvision-AI\img\1-cv.png](https://www.customvision.ai/projects)) and click on SING IN.
 ![AI](img/1-cv.png).
 ##### -Click on new project.
 ![AI](img/2-cv.png)
